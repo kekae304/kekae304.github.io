@@ -128,20 +128,17 @@
     {
       "name": "ControlCore",
       "highlights": ["Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display.", "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols.", "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."],
-      "startDate": "2025-01-01",
-      "endDate": "PRESENT"
+      "startDate": "2025-01-01"
     },
     {
       "name": "Spatial Mapping Device",
       "highlights": ["Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display.", "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols.", "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."],
-      "startDate": "2024-03-01",
-      "endDate": "2024-04-01"
+      "startDate": "2024-03-01"
     },
     {
       "name": "Digital-to-Analog Converter",
       "highlights": ["Designed a 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages.", "Determined bit weights based on full-scale voltage ratio and the number of possible digital values.", "Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs."],
-      "startDate": "2024-03-01",
-      "endDate": "2024-04-01"
+      "startDate": "2024-03-01"
     }
   ]
 }
