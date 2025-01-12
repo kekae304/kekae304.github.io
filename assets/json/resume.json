@@ -30,7 +30,7 @@
       "startDate": "2025-01-06",
       "endDate": "PRESENT",
       "highlight": ["Designed and developed electrical systems, circuits, and PCB layouts using KiCAD and stm32CUBE.", "Built and tested prototypes, troubleshot systems, and optimized designs for improved performance and efficiency.", "Collaborate with cross-functional teams to meet project deadlines, document progress, and provide technical reports."]
-    }
+    },
     {
       "name": "Mathnasium",
       "position": "Assistant Director",
@@ -75,7 +75,7 @@
         "R",
         "Verilog"
       ]
-    }
+    },
     {
       "name": "Hardware",
       "level": "Master",
@@ -88,7 +88,7 @@
         "Oscilloscope",
         "Raspberry Pi"
       ]
-    }
+    },
     {
       "name": "Software",
       "level": "Master",
@@ -141,7 +141,7 @@
       "name": "Digital-to-Analog Converter",
       "highlights": ["Designed a 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages.", "Determined bit weights based on full-scale voltage ratio and the number of possible digital values.", "Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs."],
       "startDate": "2024-03-01",
-      //"endDate": "2024-03-01"
+      "endDate": "2024-04-01"
     }
   ]
 }
