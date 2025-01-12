@@ -1,97 +1,133 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Erion Keka
-    - name: Date of Birth
-      value: temp
-    - name: Languages
-      value: English, German
+- basics:
+  name: "Erion Keka"
+  label: "Electrical Engineering Student"
+  image: ""
+  email: "ekeka07@gmail.com"
+  GitHub: "https://github.com/kekae304"
+  LinkedIn: "https://www.linkedin.com/in/erionkeka/"
+  summary: "A third-year Electrical Engineering Student at McMaster University, currently gaining experience as an Electrical Engineering Intern at Jitterrware."
+  location:
+    address: "2712 Broadway St"
+    postalCode: "CA 94115"
+    city: "Hamilton"
+    countryCode: "Canada"
+    region: "Ontario"
+  profiles:
+    - network: "Twitter"
+      username: "AlbertEinstein"
+      url: "https://twitter.com/AlbertEinstein"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelors of Engineering
-      institution: McMaster University, Hamilton, Canada
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+work:
+  - name: "Jitterrware"
+    position: "Electrical Engineering Intern"
+    url: "https://www.jitterware.com/"
+    startDate: "2025-01-06"
+    endDate: "PRESENT"
+    highlight:
+      - "Designed and developed electrical systems, circuits, and PCB layouts using KiCAD and stm32CUBE."
+      - "Built and tested prototypes, troubleshot systems, and optimized designs for improved performance and efficiency."
+      - "Collaborated with cross-functional teams to meet project deadlines, document progress, and provide technical reports."
+  - name: "Mathnasium"
+    position: "Assistant Director"
+    url: "https://www.mathnasium.com/ca/"
+    startDate: "2024-04-01"
+    endDate: "2025-01-01"
+    highlight:
+      - "Led and motivated a team of 6 instructors, improving student retention by 25%"
+      - "Increased enrollment by 40% through effective lead response and successful student onboarding."
+      - "Built strong relationships with students and parents by delivering exceptional customer service and progress updates."
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+volunteer:
+  - organization: "Mathstronauts"
+    location: "Hamilton, Canada"
+    position: "Teaching Assistant"
+    url: "https://mathstronauts.ca/"
+    startDate: "2019-03-01"
+    endDate: "2015-06-01"
+    highlights:
+      - "Assisted lead instructor and created an inclusive learning environment."
+      - "Helped with Python and Scratch coding exercises and projects."
+      - "Helped students troubleshoot and overcome challenges in their projects."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+education:
+  - institution: "McMaster University"
+    location: "Hamilton, Canada"
+    url: "https://www.eng.mcmaster.ca/"
+    area: "Electrical Engineering"
+    studyType: "Bachelors of Engineering"
+    startDate: "2022-09-06"
+    endDate: "PRESENT"
+    courses:
+      - "Communication and Control Systems"
+      - "Data Structures and Algorithms"
+      - "Electronic Devices and Circuits II"
+      - "Electromagnetics II"
+      - "Energy Conversion"
+      - "Logic Design"
+      - "Microprocessor Systems"
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+skills:
+  - name: "Languages"
+    level: "Master"
+    icon: "fa-solid fa-hashtag"
+    keywords:
+      - "C/C++"
+      - "MATLAB"
+      - "Python"
+      - "R"
+      - "Verilog"
+  - name: "Hardware"
+    level: "Master"
+    icon: "fa-solid fa-hashtag"
+    keywords:
+      - "Arduino"
+      - "FGPA"
+      - "Function Generator"
+      - "Multimeter"
+      - "Oscilloscope"
+      - "Raspberry Pi"
+  - name: "Software"
+    level: "Master"
+    icon: "fa-solid fa-hashtag"
+    keywords:
+      - "AutoCAD"
+      - "Diligent Waveforms"
+      - "GitHub"
+      - "KiCAD"
+      - "Linux"
+      - "LTSpice"
+      - "OrCAD"
+      - "ROS"
+      - "stm32CUBE"
+      - "Visual Studio"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+languages:
+  - language: "Albanian"
+    fluency: "Fluent"
+    icon: ""
+  - language: "English"
+    fluency: "Fluent"
+    icon: ""
+  - language: "French"
+    fluency: "Fluent"
+    icon: ""
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+projects:
+  - name: "ControlCore"
+    highlights:
+      - "Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display."
+      - "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols."
+      - "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."
+    startDate: "2025-01-01"
+  - name: "Spatial Mapping Device"
+    highlights:
+      - "Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display."
+      - "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols."
+      - "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."
+    startDate: "2025-01-01"
+  - name: "Digital-to-Analog Converter"
+    highlights:
+      - "Designed a 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages."
+      - "Determined bit weights based on full-scale voltage ratio and the number of possible digital values."
+      - "Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs."
+    startDate: "2024-04-01"
