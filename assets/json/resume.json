@@ -13,6 +13,14 @@
       "countryCode": "Canada",
       "region": "Ontario"
     },
+      "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+    },
   "work": [
     {
       "name": "Jitterware",
