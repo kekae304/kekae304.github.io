@@ -431,11 +431,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-started-position-as-assistant-director-at-mathnasium",
+    },{id: "news-started-position-as-assistant-director-at-mathnasium",
           title: 'Started position as Assistant Director at Mathnasium.',
+          description: "",
+          section: "News",},{id: "news-started-third-year-of-electrical-engineering-at-mcmaster-university",
+          title: 'Started third-year of Electrical Engineering at McMaster University.',
           description: "",
           section: "News",},{id: "news-started-position-as-electrical-engineering-intern-at-jitterware",
           title: 'Started position as Electrical Engineering Intern at Jitterware.',
