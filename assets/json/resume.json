@@ -5,7 +5,7 @@
     "email": "ekeka07@gmail.com",
     "GitHub": "https://github.com/kekae304",
     "LinkedIn": "https://www.linkedin.com/in/erionkeka/",
-    "summary": "A third-year Electrical Engineering Student at McMaster University, currently gaining experience as an Electrical Engineering Intern at Jitterrware.",
+    "summary": "A third-year Electrical Engineering Student at McMaster University, currently gaining experience as an Electrical Engineering Intern at Jitterware.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -23,7 +23,7 @@
   },
   "work": [
     {
-      "name": "Jitterrware",
+      "name": "Jitterware",
       "position": "Electrical Engineering Intern",
       "url": "https://www.jitterware.com/",
       "startDate": "2025-01-06",
