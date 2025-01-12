@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Erion Keka",
+    "label": "Electrical Engineering Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ekeka07@gmail.com",
+    "GitHub": "https://github.com/kekae304",
+    "LinkedIn": "https://www.linkedin.com/in/erionkeka/",
+    "summary": "A third-year Electrical Engineering Student at McMaster University, currently gaining practical experience as as an Electrical Engineering Intern at Jitterrware.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Hamilton",
+      "countryCode": "Canada",
+      "region": "Ontario"
     },
     "profiles": [
       {
