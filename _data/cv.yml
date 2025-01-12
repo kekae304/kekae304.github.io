@@ -1,133 +1,104 @@
-- basics:
-  name: "Erion Keka"
-  label: "Electrical Engineering Student"
-  image: ""
-  email: "ekeka07@gmail.com"
-  GitHub: "https://github.com/kekae304"
-  LinkedIn: "https://www.linkedin.com/in/erionkeka/"
-  summary: "A third-year Electrical Engineering Student at McMaster University, currently gaining experience as an Electrical Engineering Intern at Jitterrware."
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "Hamilton"
-    countryCode: "Canada"
-    region: "Ontario"
-  profiles:
-    - network: "Twitter"
-      username: "AlbertEinstein"
-      url: "https://twitter.com/AlbertEinstein"
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Erion Keka
+    - name: Email
+      value: ekeka07@gmail.com
+    - name: GitHub
+      value: https://github.com/kekae304
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/erionkeka/
+    - name: Summary
+      value: A third-year Electrical Engineering Student at McMaster University, currently gaining experience as an Electrical Engineering Intern at Jitterrware.
+    - name: Location
+      value: Hamilton, Ontario, Canada, CA 94115
 
-work:
-  - name: "Jitterrware"
-    position: "Electrical Engineering Intern"
-    url: "https://www.jitterware.com/"
-    startDate: "2025-01-06"
-    endDate: "PRESENT"
-    highlight:
-      - "Designed and developed electrical systems, circuits, and PCB layouts using KiCAD and stm32CUBE."
-      - "Built and tested prototypes, troubleshot systems, and optimized designs for improved performance and efficiency."
-      - "Collaborated with cross-functional teams to meet project deadlines, document progress, and provide technical reports."
-  - name: "Mathnasium"
-    position: "Assistant Director"
-    url: "https://www.mathnasium.com/ca/"
-    startDate: "2024-04-01"
-    endDate: "2025-01-01"
-    highlight:
-      - "Led and motivated a team of 6 instructors, improving student retention by 25%"
-      - "Increased enrollment by 40% through effective lead response and successful student onboarding."
-      - "Built strong relationships with students and parents by delivering exceptional customer service and progress updates."
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelors of Engineering in Electrical Engineering
+      institution: McMaster University, Hamilton, Canada
+      year: 2022-2026
+      description:
+        - Communication and Control Systems
+        - Data Structures and Algorithms
+        - Electronic Devices and Circuits II
+        - Electromagnetics II
+        - Energy Conversion
+        - Logic Design
+        - Microprocessor Systems
 
-volunteer:
-  - organization: "Mathstronauts"
-    location: "Hamilton, Canada"
-    position: "Teaching Assistant"
-    url: "https://mathstronauts.ca/"
-    startDate: "2019-03-01"
-    endDate: "2015-06-01"
-    highlights:
-      - "Assisted lead instructor and created an inclusive learning environment."
-      - "Helped with Python and Scratch coding exercises and projects."
-      - "Helped students troubleshoot and overcome challenges in their projects."
+- title: Experience
+  type: time_table
+  contents:
+    - title: Electrical Engineering Intern
+      institution: Jitterrware
+      year: 2025-PRESENT
+      description:
+        - Designed and developed electrical systems, circuits, and PCB layouts using KiCAD and stm32CUBE.
+        - Built and tested prototypes, troubleshot systems, and optimized designs for improved performance and efficiency.
+        - Collaborated with cross-functional teams to meet project deadlines, document progress, and provide technical reports.
+    - title: Assistant Director
+      institution: Mathnasium
+      year: 2024-2025
+      description:
+        - Led and motivated a team of 6 instructors, improving student retention by 25%.
+        - Increased enrollment by 40% through effective lead response and successful student onboarding.
+        - Built strong relationships with students and parents by delivering exceptional customer service and progress updates.
 
-education:
-  - institution: "McMaster University"
-    location: "Hamilton, Canada"
-    url: "https://www.eng.mcmaster.ca/"
-    area: "Electrical Engineering"
-    studyType: "Bachelors of Engineering"
-    startDate: "2022-09-06"
-    endDate: "PRESENT"
-    courses:
-      - "Communication and Control Systems"
-      - "Data Structures and Algorithms"
-      - "Electronic Devices and Circuits II"
-      - "Electromagnetics II"
-      - "Energy Conversion"
-      - "Logic Design"
-      - "Microprocessor Systems"
+- title: Volunteer Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Mathstronauts
+      year: 2019-2015
+      description:
+        - Assisted lead instructor and created an inclusive learning environment.
+        - Helped with Python and Scratch coding exercises and projects.
+        - Helped students troubleshoot and overcome challenges in their projects.
 
-skills:
-  - name: "Languages"
-    level: "Master"
-    icon: "fa-solid fa-hashtag"
-    keywords:
-      - "C/C++"
-      - "MATLAB"
-      - "Python"
-      - "R"
-      - "Verilog"
-  - name: "Hardware"
-    level: "Master"
-    icon: "fa-solid fa-hashtag"
-    keywords:
-      - "Arduino"
-      - "FGPA"
-      - "Function Generator"
-      - "Multimeter"
-      - "Oscilloscope"
-      - "Raspberry Pi"
-  - name: "Software"
-    level: "Master"
-    icon: "fa-solid fa-hashtag"
-    keywords:
-      - "AutoCAD"
-      - "Diligent Waveforms"
-      - "GitHub"
-      - "KiCAD"
-      - "Linux"
-      - "LTSpice"
-      - "OrCAD"
-      - "ROS"
-      - "stm32CUBE"
-      - "Visual Studio"
+- title: Projects
+  type: time_table
+  contents:
+    - title: ControlCore
+      year: 2025-now
+      description: Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display.
+    - title: Spatial Mapping Device
+      year: 2025-now
+      description: Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display.
+    - title: Digital-to-Analog Converter
+      year: 2024-now
+      description: Designed a 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages.
 
-languages:
-  - language: "Albanian"
-    fluency: "Fluent"
-    icon: ""
-  - language: "English"
-    fluency: "Fluent"
-    icon: ""
-  - language: "French"
-    fluency: "Fluent"
-    icon: ""
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - C/C++
+        - MATLAB
+        - Python
+        - R
+        - Verilog
+    - title: Hardware
+      items:
+        - Arduino
+        - FPGA
+        - Function Generator
+        - Multimeter
+        - Oscilloscope
+        - Raspberry Pi
+    - title: Software
+      items:
+        - AutoCAD
+        - Diligent Waveforms
+        - GitHub
+        - KiCAD
+        - Linux
+        - LTSpice
+        - OrCAD
+        - ROS
+        - stm32CUBE
+        - Visual Studio
 
-projects:
-  - name: "ControlCore"
-    highlights:
-      - "Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display."
-      - "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols."
-      - "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."
-    startDate: "2025-01-01"
-  - name: "Spatial Mapping Device"
-    highlights:
-      - "Designed a system monitoring and media controller using an ESP32 microcontroller and an OLED display."
-      - "Used C/C++ to integrate an ESP32 microcontroller with the display leveraging I2C/UART communication protocols."
-      - "Implemented a custom graphical user interface (GUI) with dynamic button layouts and easy navigation for seamless user interaction."
-    startDate: "2025-01-01"
-  - name: "Digital-to-Analog Converter"
-    highlights:
-      - "Designed a 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages."
-      - "Determined bit weights based on full-scale voltage ratio and the number of possible digital values."
-      - "Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs."
-    startDate: "2024-04-01"
