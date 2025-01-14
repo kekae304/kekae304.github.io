@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.jitterware.com/'>Jitterware</a>, Electrical Engineering Intern.
 
 profile:
   align: right
