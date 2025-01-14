@@ -444,34 +444,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%65%6B%65%6B%61%30%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/kekae304", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/erionkeka", "_blank");
-        },
-      },{
-        id: 'social-youtube',
-        title: 'YouTube',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://youtube.com/@erionkeka7895", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
