@@ -59,17 +59,6 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "post-founding-macrobosub",
-      
-        title: "Founding MacRoboSub",
-      
-      description: "this is coming soon!",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
     },{id: "news-started-position-as-assistant-director-at-mathnasium",
           title: 'Started position as Assistant Director at Mathnasium.',
           description: "",
