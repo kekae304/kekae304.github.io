@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-founding-macrobosub",
+        },{id: "post-founding-mcmaster-robosub",
       
-        title: "Founding MacRoboSub",
+        title: "Founding McMaster RoboSub",
       
       description: "this is coming soon!",
       section: "Posts",
