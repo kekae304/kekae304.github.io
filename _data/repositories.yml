@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kekae304
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - kekae304/Spatial-Mapping-Device
+  - kekae304/Snake-Game
+  - kekae304/3EJ4-Labs
+  - kekae304/3FK4-MATLAB
+  - kekae304/3TP3-Labs
+  - kekae304/2EI4-Projects
+  - kekae304/2FH4-MATLAB
+  - kekae304/2SH4-Labs
