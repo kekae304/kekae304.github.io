@@ -5,7 +5,6 @@ description: A bot for the McMaster SumoBot Competition.
 img: assets/img/SB1.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 Competing in McMaster's annual SumoBot Competition, my team of three and I designed and built a compact, autonomous robot capable of identifying and pushing opposing robots out of the sumo ring.
