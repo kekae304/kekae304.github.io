@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatial Mapping System
-description: An efficient LiDAR-powered spatial mapping device for indoor spatial mapping.
+description: A LiDAR-powered spatial mapping device.
 img: assets/img/2DXProject.png
 importance: 1
 category: work
