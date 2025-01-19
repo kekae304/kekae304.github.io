@@ -68,9 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-position-as-electrical-engineering-intern-at-jitterware",
           title: 'Started position as Electrical Engineering Intern at Jitterware.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-wall-e-the-sumobot",
+          title: 'Wall-E The SumoBot',
+          description: "A bot for the McMaster SumoBot Competition.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
