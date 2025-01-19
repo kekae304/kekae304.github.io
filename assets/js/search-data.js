@@ -73,9 +73,9 @@ ninja.data = [{
           description: "A bot for the McMaster SumoBot Competition.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-spatial-mapping-system",
+          title: 'Spatial Mapping System',
+          description: "An efficient LiDAR-powered spatial mapping device for indoor spatial mapping",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
