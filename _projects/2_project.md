@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Spatial Mapping System
+description: An efficient LiDAR-powered spatial mapping device for indoor spatial mapping
 img: assets/img/3.jpg
 importance: 2
 category: work
