@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Spatial Mapping System
-description: A LiDAR-powered spatial mapping device.
+description: A LiDar powered spatial mapping device. 
 img: assets/img/2DXProject.png
 importance: 2
 category: work
-------
+---
 
 The Spatial Mapping using Time-of-Flight Project is an integrated 3D scanning system. The system is an economic, efficient, and simple system that can acquire distance every 11.25° of a full 360° rotation. The system consists of the TI MSP432E01Y Microcontroller, VL53L1X Time of Flight Sensor, and the 28BYJ-48 Stepper Motor.
 
