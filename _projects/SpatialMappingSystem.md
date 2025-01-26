@@ -11,10 +11,10 @@ The Spatial Mapping using Time-of-Flight Project is an integrated 3D scanning sy
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Hallway.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Hallway.png" title="Spatial Mapping System" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Output.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Output.png" title="Spatial Mapping System" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
