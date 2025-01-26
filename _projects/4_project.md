@@ -2,12 +2,12 @@
 layout: page
 title: Snake Game
 description: Snake Game developed using Object Oriented Design principles. 
-img: assets/img/SB1.jpg
+img: assets/img/snake.jpg
 importance: 3
 category: work
 ---
 
-Developed a Snake Game using object-oriented design principles for the COMP ENG 2SH4 course. Below is a snippet from the main project file. 
+Developed a Snake Game using object-oriented design principles for the COMP ENG 2SH4 course, showcasing a snippet from the main project file below! 
 
 {% raw %}
 
@@ -165,5 +165,3 @@ void CleanUp(void)
 ```
 
 {% endraw %}
-
-Our design drew inspiration from successful bots of the past, incorporating key components such as the HC-SR04 ultrasonic sensor for distance measurement, the KY-033 line tracking sensor for navigation, and the MX-1508 brushed DC motor driver for efficient motor control.
