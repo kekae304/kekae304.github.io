@@ -68,17 +68,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-position-as-electrical-engineering-intern-at-jitterware",
           title: 'Started position as Electrical Engineering Intern at Jitterware.',
           description: "",
-          section: "News",},{id: "projects-stack-n-slice",
-          title: 'Stack N Slice',
-          description: "The ultimate sandwich maker.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-snake-game",
-          title: 'Snake Game',
-          description: "Snake Game developed using Object Oriented Design principles.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-analog-to-digital-converter",
+          section: "News",},{id: "projects-analog-to-digital-converter",
           title: 'Analog-To-Digital Converter',
           description: "Designed an 3-bit Analog-to-Digital Converter.",
           section: "Projects",handler: () => {
@@ -93,11 +83,21 @@ ninja.data = [{
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-snake-game",
+          title: 'Snake Game',
+          description: "Snake Game developed using Object Oriented Design principles.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SnakeGame/";
             },},{id: "projects-spatial-mapping-system",
           title: 'Spatial Mapping System',
           description: "A LiDar powered spatial mapping device.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SpatialMappingSystem/";
+            },},{id: "projects-stack-n-slice",
+          title: 'Stack N Slice',
+          description: "The ultimate sandwich maker.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/StackNSlice/";
             },},{id: "projects-wall-e-the-sumobot",
           title: 'Wall-E The SumoBot',
           description: "A bot for the McMaster SumoBot Competition.",
