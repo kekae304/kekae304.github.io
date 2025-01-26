@@ -78,6 +78,11 @@ ninja.data = [{
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amplifier/";
+            },},{id: "projects-dc-power-supply",
+          title: 'DC Power Supply',
+          description: "Built a DC Power Supply.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DCPowerSupply/";
             },},{id: "projects-snake-game",
           title: 'Snake Game',
           description: "Snake Game developed using Object Oriented Design principles.",
