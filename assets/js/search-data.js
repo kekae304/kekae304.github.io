@@ -68,12 +68,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-position-as-electrical-engineering-intern-at-jitterware",
           title: 'Started position as Electrical Engineering Intern at Jitterware.',
           description: "",
-          section: "News",},{id: "projects-spatial-mapping-system",
-          title: 'Spatial Mapping System',
-          description: "A LiDar powered spatial mapping device.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-stack-n-slice",
+          section: "News",},{id: "projects-stack-n-slice",
           title: 'Stack N Slice',
           description: "The ultimate sandwich maker.",
           section: "Projects",handler: () => {
@@ -98,6 +93,11 @@ ninja.data = [{
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-spatial-mapping-system",
+          title: 'Spatial Mapping System',
+          description: "A LiDar powered spatial mapping device.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SpatialMappingSystem/";
             },},{id: "projects-wall-e-the-sumobot",
           title: 'Wall-E The SumoBot',
           description: "A bot for the McMaster SumoBot Competition.",
