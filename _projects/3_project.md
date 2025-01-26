@@ -5,7 +5,6 @@ description: The ultimate sandwich maker.
 img: assets/img/Stack.jpg
 importance: 3
 category: work
-related_publications: true
 ---
 
 This design project was to develop a solution that will improve the lives of our clients. Based on the clients’ challenges, we developed the following problem statement as a foundation for our project: To design a safe, convenient, and accessible solution to help our visually impaired client, easily complete the steps of making a sandwich. 
