@@ -88,9 +88,9 @@ ninja.data = [{
           description: "Snake Game developed using Object Oriented Design principles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-analog-to-digital-converter",
+          title: 'Analog-To-Digital Converter',
+          description: "Designed an 3-bit Analog-to-Digital Converter.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
