@@ -73,11 +73,6 @@ ninja.data = [{
           description: "Designed an 3-bit Analog-to-Digital Converter.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-dc-power-supply",
-          title: 'DC Power Supply',
-          description: "Built a DC Power Supply.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-amplifier-circuit",
           title: 'Amplifier Circuit',
           description: "Designed an amplifier circuit.",
