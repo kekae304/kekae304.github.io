@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (C/C++) Snake Game
+title: Snake Game
 description: Snake Game developed using Object Oriented Design principles. 
 img:assets/img/SB1.jpg
 importance: 3
