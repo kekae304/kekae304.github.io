@@ -72,7 +72,7 @@ ninja.data = [{
           title: 'Analog-To-Digital Converter',
           description: "Designed an 3-bit Analog-to-Digital Converter.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/ADC/";
             },},{id: "projects-amplifier-circuit",
           title: 'Amplifier Circuit',
           description: "Designed an amplifier circuit.",
