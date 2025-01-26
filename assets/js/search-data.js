@@ -83,9 +83,9 @@ ninja.data = [{
           description: "The ultimate sandwich maker.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-snake-game",
+          title: 'Snake Game',
+          description: "Snake Game developed using Object Oriented Design principles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
