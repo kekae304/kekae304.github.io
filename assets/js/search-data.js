@@ -68,12 +68,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-position-as-electrical-engineering-intern-at-jitterware",
           title: 'Started position as Electrical Engineering Intern at Jitterware.',
           description: "",
-          section: "News",},{id: "projects-wall-e-the-sumobot",
-          title: 'Wall-E The SumoBot',
-          description: "A bot for the McMaster SumoBot Competition.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-spatial-mapping-system",
+          section: "News",},{id: "projects-spatial-mapping-system",
           title: 'Spatial Mapping System',
           description: "A LiDar powered spatial mapping device.",
           section: "Projects",handler: () => {
@@ -113,6 +108,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-wall-e-the-sumobot",
+          title: 'Wall-E The SumoBot',
+          description: "A bot for the McMaster SumoBot Competition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SumoBot/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
