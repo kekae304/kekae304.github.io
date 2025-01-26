@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Making Waves # blog_name will be displayed in your blog page
-blog_description: The Journey of McMaster's RoboSub Team
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: COMING SOON! TO DOCUMENT THE ROBOSUB JOURNEY!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -264,9 +264,6 @@ jekyll-archives:
     year: "/blog/:year/"
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
-
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
