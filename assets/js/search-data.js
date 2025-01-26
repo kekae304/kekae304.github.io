@@ -82,7 +82,7 @@ ninja.data = [{
           title: 'Amplifier Circuit',
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/Amplifier/";
             },},{id: "projects-snake-game",
           title: 'Snake Game',
           description: "Snake Game developed using Object Oriented Design principles.",
