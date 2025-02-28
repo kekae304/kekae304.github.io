@@ -2,12 +2,12 @@
 layout: page
 title: AutoCAD Projects
 description: A showcase of my AutoCAD projects. 
-img: assets/img/SB1.jpg
+img: assets/img/unnamed.png
 importance: 1
 category: work
 ---
 
-This portfolio showcases a collection of AutoCAD projects that I have completed throughout my time at McMaster University. The designs consist of a wind turbine blade, a medical device sterilization container, an automated recycling system, and the award-winning Stack ‘N’ Slice! 
+This portfolio showcases a collection of modelling AutoCAD projects that I have completed throughout my time at McMaster University. The designs consist of a wind turbine blade, a medical device sterilization container, an automated recycling system, and the award-winning Stack ‘N’ Slice! 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
