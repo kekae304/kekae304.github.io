@@ -82,7 +82,7 @@ ninja.data = [{
           title: 'AutoCAD Projects',
           description: "A showcase of my AutoCAD projects.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CADProjects/";
+              window.location.href = "/projects/AutoCAD/";
             },},{id: "projects-dc-power-supply",
           title: 'DC Power Supply',
           description: "Built a DC Power Supply.",
