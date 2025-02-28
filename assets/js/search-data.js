@@ -78,6 +78,11 @@ ninja.data = [{
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amplifier/";
+            },},{id: "projects-wall-e-the-sumobot",
+          title: 'Wall-E The SumoBot',
+          description: "A bot for the McMaster SumoBot Competition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CADProjects/";
             },},{id: "projects-dc-power-supply",
           title: 'DC Power Supply',
           description: "Built a DC Power Supply.",
