@@ -2,7 +2,7 @@
 layout: page
 title: AutoCAD Projects
 description: A showcase of my AutoCAD projects. 
-img: assets/img/unnamed.png
+img: assets/img/RS.png
 importance: 3
 category: work
 ---
