@@ -78,9 +78,9 @@ ninja.data = [{
           description: "Designed an amplifier circuit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amplifier/";
-            },},{id: "projects-wall-e-the-sumobot",
-          title: 'Wall-E The SumoBot',
-          description: "A bot for the McMaster SumoBot Competition.",
+            },},{id: "projects-autocad-projects",
+          title: 'AutoCAD Projects',
+          description: "A showcase of my AutoCAD projects.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CADProjects/";
             },},{id: "projects-dc-power-supply",
